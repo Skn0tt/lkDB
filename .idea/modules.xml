@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbiMotto/AbiMotto.iml" filepath="$PROJECT_DIR$/AbiMotto/AbiMotto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbiMottoRefactored/AbiMottoRefactored.iml" filepath="$PROJECT_DIR$/AbiMottoRefactored/AbiMottoRefactored.iml" />
       <module fileurl="file://$PROJECT_DIR$/DBClient/DBClient.iml" filepath="$PROJECT_DIR$/DBClient/DBClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lkDB.iml" filepath="$PROJECT_DIR$/.idea/lkDB.iml" />
     </modules>
